@@ -1,4 +1,4 @@
-namespace accountbook.Models
+namespace YueKeepAccountService.Models
 {
     public enum TransactionType {
         Payout,

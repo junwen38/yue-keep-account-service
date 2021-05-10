@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace accountbook.Models {
+namespace YueKeepAccountService.Models {
     public class Category {
         public int Id {
             get;

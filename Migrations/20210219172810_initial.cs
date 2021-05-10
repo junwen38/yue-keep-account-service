@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 using MySql.Data.EntityFrameworkCore.Metadata;
 
-namespace accountbook.Migrations
+namespace YueKeepAccountService.Migrations
 {
     public partial class initial : Migration
     {

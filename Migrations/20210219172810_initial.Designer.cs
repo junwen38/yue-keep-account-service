@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using accountbook.Db;
+using YueKeepAccountService.Db;
 
-namespace accountbook.Migrations
+namespace YueKeepAccountService.Migrations
 {
     [DbContext(typeof(AccountBookDb))]
     [Migration("20210219172810_initial")]

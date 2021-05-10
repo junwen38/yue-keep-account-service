@@ -3,9 +3,9 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using accountbook.Db;
+using YueKeepAccountService.Db;
 
-namespace accountbook.Migrations
+namespace YueKeepAccountService.Migrations
 {
     [DbContext(typeof(AccountBookDb))]
     partial class AccountBookDbModelSnapshot : ModelSnapshot

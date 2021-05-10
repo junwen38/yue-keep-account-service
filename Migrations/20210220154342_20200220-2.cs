@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace accountbook.Migrations
+namespace YueKeepAccountService.Migrations
 {
     public partial class _202002202 : Migration
     {

@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using accountbook.Db;
-using accountbook.Models;
+using YueKeepAccountService.Db;
+using YueKeepAccountService.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace accountbook.Controllers {
+namespace YueKeepAccountService.Controllers {
   [ApiController]
   [Route("api/[controller]")]
   public class StaticsController : ControllerBase {

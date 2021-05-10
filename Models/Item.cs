@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace accountbook.Models {
+namespace YueKeepAccountService.Models {
     public class Item {
         public int Id {
             get;

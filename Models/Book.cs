@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace accountbook.Models
+namespace YueKeepAccountService.Models
 {
     public class Book {
         public int Id {
